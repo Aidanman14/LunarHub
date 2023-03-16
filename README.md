@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/Aidanman14/LunarHub/main/assts/standard%20(3).gif)  
 ## Notice  
 **Not Released yet**
---**This is in insanely early beta! And there is only a few games added!**  
+<!--**This is in insanely early beta! And there is only a few games added!**-->
 
 [Discord](https://discord.gg/qwCV4uAGYf)  
 
