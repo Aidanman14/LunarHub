@@ -11,9 +11,13 @@ print("Not done yet")
 ```  
 ## Supported executors  
 - Synapse x (v2 and v3)
+
 -ScriptWare
+
 -Krnl
+
 -Fluxus
+
 -And any other executors 
 
 ## Version  
