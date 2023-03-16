@@ -10,7 +10,7 @@
 print("Not done yet")
 ```  
 ## Supported executors  
-- Synapse x (v2 and v3)
+-Synapse x (v2 and v3)
 
 -ScriptWare
 
