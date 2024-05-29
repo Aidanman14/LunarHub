@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Aidanman14/LunarHub/main/assts/standard%20(3).gif)  
+![](https://github.com/Aidanman14/LunarHub/blob/main/assets/mainGif.gif?raw=true)  
 ## Notice  
 **Not Released yet**
 <!--**This is in insanely early beta! And there is only a few games added!**-->
